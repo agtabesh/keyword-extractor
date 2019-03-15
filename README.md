@@ -1,6 +1,6 @@
 # @agtabesh/keyword-extractor
 
-[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/@agtabesh/keyword-extractor)
+[![npm (scoped)](https://img.shields.io/badge/npm-v1.1.0-blue.svg)](https://www.npmjs.com/package/@agtabesh/keyword-extractor)
 
 TF-IDF is a statistical measure used to evaluate how important a word is to a document in a collection or corpus. This package uses TF-IDF to extract important keywords from a document.
 
