@@ -1,6 +1,6 @@
 {
   "name": "@agtabesh/keyword-extractor",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A package to extract important keywords from a document using TF-IDF technique",
   "license": "MIT",
   "repository": "@agtabesh/keyword-extractor",
