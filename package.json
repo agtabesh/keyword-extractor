@@ -4,7 +4,7 @@
   "description": "A package to extract important keywords from a document using TF-IDF technique",
   "license": "MIT",
   "repository": "@agtabesh/keyword-extractor",
-  "main": "index.js",
+  "main": "src/index.js",
   "keywords": [
     "keyword extractor",
     "tfidf",
